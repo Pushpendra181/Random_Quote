@@ -1,0 +1,25 @@
+.container {
+  width: 50%;
+  border: 2px black solid;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.quote {
+  padding: 10px;
+  color: blue;
+  text-align: center;
+}
+.aut_quote {
+  padding: 30px;
+}
+button {
+  margin: 20px;
+  padding: 10px;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  background-color: blueviolet;
+}
